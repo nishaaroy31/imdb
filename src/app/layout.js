@@ -3,7 +3,7 @@ import "./globals.css";
 
 export const metadata = {
   title: "IMDb Clone",
-  description: "This is the IMDb clone website",
+  description: "This is the IMDb clone nisha",
 };
 
 export default function RootLayout({ children }) {
